@@ -5,10 +5,8 @@
 #ifndef ASTAR_ASTAR_H
 #define ASTAR_ASTAR_H
 
-
 class AStar {
 
 };
-
 
 #endif //ASTAR_ASTAR_H
